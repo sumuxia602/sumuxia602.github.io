@@ -1,0 +1,19 @@
+---
+title:          "Surviving transient power failures with sram data retention"
+date:           2021-02-01 00:01:00 +0800
+selected:       false
+pub:            "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2021"
+
+abstract: >-
+  wIn this work, we propose an approach to enable a system to use volatile SRAM to correctly progress in the presence of transient power failures, since SRAM is capable of retaining its data for seconds or minutes with the charge remained in the battery/capacitor after the CPU core stops at its brown-out voltage.
+authors:
+  - Songran Liu
+  - Wei Zhang
+  - Mingsong Lv
+  - Qiulin Chen
+  - Nan Guan
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/9474038
+---
