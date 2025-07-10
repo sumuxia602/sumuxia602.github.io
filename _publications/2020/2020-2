@@ -1,0 +1,19 @@
+---
+title:          "TICK: Tiny client for blockchains"
+date:           2020-08-10 00:01:00 +0800
+selected:       false
+pub:            "IEEE Internet of Things Journal"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2020"
+
+abstract: >-
+  TICK uses the AVL hash tree to store all the unspent outputs. The AVL hash tree can be updated in the time of O ( M *log( NU )), where M is the number of elements that need to be inserted or removed from the AVL hash tree. 
+authors:
+  - Wei Zhang
+  - Jiangshan Yu
+  - Qingqiang He
+  - Nan Zhang
+  - Nan Guan
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/9163325
+---
