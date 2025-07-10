@@ -1,0 +1,20 @@
+---
+title:          "Scope-aware useful cache block calculation for cache-related pre-emption delay analysis with set-associative data caches"
+date:           2019-08-27 00:01:00 +0800
+selected:       false
+pub:            "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2019"
+
+abstract: >-
+  we develop a new UCB calculation technique for data caches, which redefines the analysis unit (to address the unsoundness in the existing method) and precisely captures the dynamic cache access behavior by taking the temporal scopes of memory blocks into consideration.
+authors:
+  - Wei Zhang
+  - Nan Guan
+  - Lei Ju
+  - Yue Tang
+  - Weichen Liu
+  - Zhiping Jia
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/8815819
+---
