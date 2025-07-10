@@ -4,7 +4,7 @@
         {% assign news_items = site.news | sort: "title" | reverse | slice: 0, include.limit %}
         {% for item in news_items %}
         <div class="my-1 d-flex align-items-center">
-            <i class="fas fa-bullhorn mr-2 text-muted"></i> <!-- 添加装饰图标 -->
+            <i></i> <!-- 添加装饰图标 -->
             <div>{{ item.title }}</div>
         </div>
         {% endfor %}
