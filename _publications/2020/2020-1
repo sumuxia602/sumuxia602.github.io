@@ -1,0 +1,19 @@
+---
+title:          "LATICS: A low-overhead adaptive task-based intermittent computing system"
+date:           2020-10-02 00:01:00 +0800
+selected:       true
+pub:            "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2021"
+
+abstract: >-
+  This article presents LATICS, a low-overhead adaptive task-based intermittent computing system, which dynamically decides the granularity of atomic execution to avoid unnecessarily frequent state saving when energy supply is sufficient. 
+authors:
+  - Songran Liu
+  - Wei Zhang
+  - Mingsong Lv
+  - Qiulin Chen
+  - Nan Guan
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/9211403
+---
