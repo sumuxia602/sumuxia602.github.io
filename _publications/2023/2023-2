@@ -1,0 +1,19 @@
+---
+title:          "Accelerating DNN inference with heterogeneous multi-DPU engines"
+date:           2023-07-09 00:01:00 +0800
+selected:       false
+pub:            "60th ACM/IEEE Design Automation Conference (DAC)"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2023"
+
+abstract: >-
+  In this work, we demonstrate that deployment of multiple heterogeneous DPU engines makes better resource efficiency for a given FPGA device. Moreover, we show that pipelined execution of a CNN inference task over heterogeneous multi-DPU engines may further improve overall inference throughput with carefully designed CNN layers-to-DPU mapping and scheduling.
+authors:
+  - Zelin Du
+  - Wei Zhang
+  - Zimeng Zhou
+  - Zili Shao
+  - Lei Ju
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/10247793
+---
