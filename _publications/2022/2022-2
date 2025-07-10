@@ -1,0 +1,18 @@
+---
+title:          "Precise and scalable shared cache contention analysis for WCET estimation"
+date:           2022-07-10 00:01:00 +0800
+selected:       false
+pub:            "Proceedings of the 59th ACM/IEEE Design Automation Conference"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2024"
+
+abstract: >-
+  In this paper, we propose a quantitative method with O(n2) time complexity to precisely estimate the worst-case extra execution time (WCEET) caused by shared cache contentions. 
+authors:
+  - Wei Zhang
+  - Mingsong Lv
+  - Wanli Chang
+  - Lei Ju
+links:
+  Paper: https://dl.acm.org/doi/abs/10.1145/3489517.3530613
+---
