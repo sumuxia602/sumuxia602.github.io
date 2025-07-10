@@ -1,0 +1,20 @@
+---
+title:          "Optimizing worst case data freshness in rf-powered networked embedded systems"
+date:           2023-01-10 00:01:00 +0800
+selected:       false
+pub:            "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2023"
+
+abstract: >-
+  This article explores how to minimize the worst case AoI of real-time data in radio-frequency (RF)-powered NESs. 
+authors:
+  - Zimeng Zhou
+  - Chenchen Fu
+  - Chun Jason Xue
+  - Song Han
+  - Wei Zhang
+  - Lei Ju
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/10013747
+---
