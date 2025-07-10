@@ -1,0 +1,19 @@
+---
+title:          "Intermittent computing with efficient state backup by asynchronous DMA"
+date:           2021-02-01 00:01:00 +0800
+selected:       false
+pub:            "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2021"
+
+abstract: >-
+  we propose a technique that allows the system to tolerate backup errors during execution without harming logical correctness. We designed a run-time system to implement the proposed approach.
+authors:
+  - Wei Zhang
+  - Sonran Liu
+  - Mingsong Lv
+  - Qiulin Chen
+  - Nan Guan
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/9473945
+---
