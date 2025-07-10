@@ -11,8 +11,8 @@ short_bio: >-
     I am currently an associate professor at the School of Cyber Science and Technology, Shandong University, Qingdao, China. I received my Ph.D. degree from The Hong Kong Polytechnic University, supervised by <a href="https://www.cs.cityu.edu.hk/~nanguan/" target="_blank">Dr. Nan Guan</a>.
   </p>
   <p>
-    My research interests include:
     <ul>
+      My research interests include:
       <li> analysis, optimization and design for energy harvesting systems</li>
       <li> static timing analysis and optimization for real-time tasks</li>
       <li> optimization for Blockchain systems</li>
