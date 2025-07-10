@@ -1,15 +1,10 @@
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
     <div class="px-3 pb-1">
-        {% assign news_by_year = site.news | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
-        {% for year in news_by_year %}
+        {% assign news_items = site.news | sort: "title" | reverse | slice: 0, include.limit %}
+        {% for item in news_items %}
         <div class="my-1">
-            <h6 class="text-muted">{{ year.name }}</h6>
-            {% for item in year.items %}
-            <div class="my-1">
-                <div>{{ item.title }}</div>
-            </div>
-            {% endfor %}
+            <div>{{ item.title }}</div>
         </div>
         {% endfor %}
     </div>
