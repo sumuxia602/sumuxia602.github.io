@@ -1,0 +1,18 @@
+---
+title:          "Scope-aware data cache analysis for OpenMP programs on multi-core processors"
+date:           2019-09-01 00:01:00 +0800
+selected:       false
+pub:            "Journal of Systems Architecture"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2019"
+
+abstract: >-
+  PWe first present a method considering the impact of the schedule clause in OpenMP programs on cache behavior. 
+authors:
+  - He Du
+  - Wei Zhang
+  - Nan Guan
+  - Wang Yi
+links:
+  Paper: https://www.sciencedirect.com/science/article/pii/S1383762118303874
+---
