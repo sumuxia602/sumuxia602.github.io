@@ -33,11 +33,11 @@ education:
 
 
 Service:
-- name: IEEE RTSS 2023, Artifact Evaluation Chair </li>
-- name: IEEE RTCSA 2023, TPC </li>
-- name: IEEE DependSys 2022, TPC </li>
-- name: ISORC 2022, TPC </li>
-- name: IEEE RTCSA 2021, TPC </li>
+- name: IEEE RTSS 2023, Artifact Evaluation Chair
+- name: IEEE RTCSA 2023, TPC
+- name: IEEE DependSys 2022, TPC
+- name: ISORC 2022, TPC
+- name: IEEE RTCSA 2021, TPC
 
 
 # awards:
