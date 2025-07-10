@@ -1,0 +1,18 @@
+---
+title:          "Analyzing data cache related preemption delay with multiple preemptions"
+date:           2018-10-16 00:01:00 +0800
+selected:       false
+pub:            "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2019"
+
+abstract: >-
+  we propose a new technique to efficiently explore the correlation among the CRPD of different preemptions, and thus more precisely calculate the total CRPD.
+authors:
+  - Wei Zhang
+  - Nan Guan
+  - Lei Ju
+  - Weichen Liu
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/8493517
+---
