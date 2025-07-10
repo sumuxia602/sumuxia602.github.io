@@ -1,0 +1,19 @@
+---
+title:          "DAHE: Parameter-adaptive and memory efficient FPGA acceleration of homomorphic encryption"
+date:           2025-05-22 00:01:00 +0800
+selected:       false
+pub:            "IEEE Transactions on Computers(TC)"
+pub_date:       "2025"
+abstract: >-
+  We propose a resource-efficient and flexible micro-architectural design for HE operations, where data access patterns in various pipeline execution stages are optimized for high memory bandwidth utilization. Furthermore, a memory-aware performance model is built for automatic design space exploration for cryptosystem parameter selection and hardware resource provisioning.
+authors:
+- Yilan Zhu
+- Honghui You
+- Wei Zhang
+- Jiming Xu
+- Qian Lou
+- Shoumeng Yan
+- Lei Ju
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/11008860
+---
