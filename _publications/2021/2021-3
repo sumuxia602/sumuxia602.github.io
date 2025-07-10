@@ -1,0 +1,15 @@
+---
+title:          "Design and analysis for embedded systems to meet resource constraints"
+date:           2021-02-01 00:01:00 +0800
+selected:       false
+pub:            "Hong Kong Polytechnic University"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2021"
+
+abstract: >-
+ this thesis models shared cache contentions between memory references and access orders among memory references together, and proposes an efficient algorithm for calculating the worst-case additional execution time. 
+authors:
+  - Wei Zhang
+links:
+  Paper: https://theses.lib.polyu.edu.hk/handle/200/11358
+---
