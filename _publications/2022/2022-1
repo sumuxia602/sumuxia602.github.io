@@ -1,0 +1,22 @@
+---
+title:          "Adaptive task-based intermittent computing system with parallel state backup"
+date:           2022-10-12 00:01:00 +0800
+selected:       false
+pub:            "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2024"
+
+abstract: >-
+  in this article, we aggressively allow incorrect backups to occur and propose a backup error detection method and a fault-tolerant backup management to guarantee the correctness of the system’s execution. To augment the parallel backup method, an adaptive execution method is further proposed to reduce the number of backups and balance the ratio between task execution time and backup latency. 
+authors:
+  - Wei Zhang
+  - Qianling Zhang
+  - Mingsong Lv
+  - Songran Liu
+  - Zimeng Zhou
+  - Qiulin Chen
+  - Nan Guan
+  - Lei Ju
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/9916309
+---
