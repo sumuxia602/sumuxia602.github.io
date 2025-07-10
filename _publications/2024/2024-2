@@ -1,0 +1,17 @@
+---
+title:          "Cache Behavior Analysis with SP-Relative Addressing for WCET Estimation"
+date:           2024-11-25 00:01:00 +0800
+selected:       false
+pub:            "International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (SETTA)"
+pub_date:       "2024"
+abstract: >-
+In this paper, we propose a new WCET analysis framework that first identifies the program segments in which the SP value remains constant for a accurate cache behavior analysis, and then comprehensively compute the WCET of the whole program based on the constraints between the SP value defined by the program’s control flow. 
+authors:
+  - Shangshang Xiao
+  - Mengxia Sun
+  - Wei Zhang
+  - Naijun Zhan
+  - Lei Ju
+links:
+  Paper: https://link.springer.com/chapter/10.1007/978-981-96-0602-3_14
+---
