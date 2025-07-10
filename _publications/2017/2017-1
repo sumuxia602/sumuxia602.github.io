@@ -1,0 +1,19 @@
+---
+title:          "Scope-aware useful cache block analysis for data cache related preemption delay"
+date:           2017-04-18 00:01:00 +0800
+selected:       false
+pub:            "IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2017"
+
+abstract: >-
+  In order to capture the dynamic behavior of the data memory references, we introduce the notion of temporal scopes into the abstract cache state (ACS) to capture the data memory blocks that must or may reside in the cache during certain time intervals of program execution. Based on the improved ACS representation, we present a temporal scope aware useful cache block (UCB) calculation for safe and tight estimation of the data CRPD cost.
+authors:
+  - Wei Zhang
+  - Fan Gong
+  - Lei Ju
+  - Nan Guan
+  - Zhiping Jia
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/7939021
+---
