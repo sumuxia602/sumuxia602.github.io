@@ -1,0 +1,22 @@
+---
+title:          "Light flash write for efficient firmware update on energy-harvesting IoT devices"
+date:           2023-04-17 00:01:00 +0800
+selected:       true
+pub:            "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2023"
+
+abstract: >-
+  This paper presents an approach to increase the success rate of firmware update on energy-harvesting IoT devices. The main idea is to first conduct a lightweight flash write with reduced erase/write time (and thus less energy consumed) to quickly save the new firmware image to flash memory before a power failure occurs. To ensure a long data retention time, a reinforcement step follows to re-write the new firmware image on the flash with default erase/write configuration when the system is not busy and has free energy.
+authors:
+  - Songran Liu
+  - Mingsong Lv
+  - Wei Zhang
+  - Xu Jiang
+  - Chuancai Gu
+  - Tao Yang
+  - Wang Yi
+  - Nan Guan
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/10136990
+---
