@@ -1,0 +1,17 @@
+---
+title:          "RTiL: Real-Time Inference of Large Language Models on Memory-Constrained GPU Devices"
+date:           2024-08-21 00:01:00 +0800
+selected:       true
+pub:            "IEEE 30th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">best paper</span>'
+pub_date:       "2024"
+abstract: >-
+   In this paper, we propose RTiL, a systematic solution to address the above challenge. RTiL utilizes collaborative inference, which combines a lightweight LLM with the default powerful LLM. The lightweight LLM generates output tokens, which are then validated for quality by the powerful LLM. This approach allows RTiL to significantly speed up inference while maintaining the same output quality as when using the powerful LLM alone.
+authors:
+  - Juxin Niu
+  - Wei Zhang
+  - Chun Jason Xue
+  - Nan Guan
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/10695719
+---
