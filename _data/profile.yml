@@ -25,12 +25,12 @@ portrait_caption: >-
 
 work:
 - name: Shandong University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/SDU.jpg
   dept: School of Cyber Science and Technology
 
 education:
 - name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/HK.png
   dept: Ph.D. Student
 
 Service:
