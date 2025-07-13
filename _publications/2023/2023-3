@@ -3,7 +3,7 @@ title:          "Light flash write for efficient firmware update on energy-harve
 date:           2023-04-17 00:01:00 +0800
 selected:       true
 pub:            "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">best paper</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">best paper candidate</span>'
 pub_date:       "2023"
 
 abstract: >-
