@@ -2,7 +2,7 @@
 title:          "WCET Estimation for CNN Inference on FPGA SoC With Multi-DPU Engines"
 date:           2025-04-01 00:01:00 +0800
 selected:       true
-pub:            "IEEE Transactions on Parallel and Distributed Systems (T-PDS)"
+pub:            "IEEE Transactions on Parallel and Distributed Systems (TPDS)"
 pub_date:       "2025"
 abstract: >-
   We propose, to the best of the authors’ knowledge, the first static timing analysis framework for CNN inference in a multi-DPU environment. The proposed framework introduces a generalized timing behavior model for shared bus arbitration and memory access contention between parallel running DPU engines. Additionally, it incorporates a fine-grained memory access contention analysis that takes into account the characteristics of deep learning applications.
